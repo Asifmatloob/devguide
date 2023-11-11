@@ -1,4 +1,5 @@
-.. _versions:
+.. _versions:install
+
 .. _branchstatus:
 
 =========================
